@@ -1,4 +1,4 @@
 # SierpinskiCarpet
 SierpinskisCarpet written in P5JS
 
-[SierpinskiCarpet](https://github.com/johnnyawesome/SierpinskiCarpet/blob/master/SierpinskiCarpet/DemoImages/SierpinskiCarpet.jpg)
+![SierpinskiCarpet](https://github.com/johnnyawesome/SierpinskiCarpet/blob/master/SierpinskiCarpet/DemoImages/SierpinskiCarpet.jpg)
