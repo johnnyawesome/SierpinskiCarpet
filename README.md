@@ -18,7 +18,7 @@ To learn more about the Sierpinski Carpet, check out [this post](https://breakso
 
 ## Other, Closely related Fractals
 
-The Sierpinski Carpet actually is a two-dimensional version of two very, very famous Fractals:
+The Sierpinski Carpet actually is a two-dimensional version of two other very, very famous Fractals:
 
 ### The Cantor Set
 
