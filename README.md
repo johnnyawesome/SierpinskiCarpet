@@ -7,15 +7,6 @@ Sierpinski Carpet looks like this
 
 ![SierpinskiCarpet](https://github.com/johnnyawesome/SierpinskiCarpet/blob/master/SierpinskiCarpet/DemoImages/SierpinskiCarpet.jpg)
 
-
-## More Information
-
-To learn more about the Sierpinski Carpet, check out [this post](https://breaksome.tech/coding-the-sierpinski-carpet-in-p5js/) where I described in great detail:
-
-- What the Sierpinski Carpet is
-- How it works
-- How you can code it yourself
-
 ## Other, Closely related Fractals
 
 The Sierpinski Carpet actually is a two-dimensional version of two other very, very famous Fractals:
